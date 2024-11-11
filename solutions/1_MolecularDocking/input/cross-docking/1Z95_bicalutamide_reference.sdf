@@ -1,0 +1,192 @@
+1Z95_bicalutamide - preprocessed
+                    3D
+ Schrodinger Suite 2021-1.
+ 43 44  0  0  1  0            999 V2000
+   28.6619    1.5938    8.9987 C   0  0  0  0  0  0
+   28.1860    1.4340   10.2964 C   0  0  0  0  0  0
+   28.9715    0.7900   11.2477 C   0  0  0  0  0  0
+   28.5180    0.6304   12.5062 F   0  0  0  0  0  0
+   30.2307    0.3078   10.9041 C   0  0  0  0  0  0
+   30.7065    0.4696    9.6074 C   0  0  0  0  0  0
+   29.9221    1.1116    8.6551 C   0  0  0  0  0  0
+   30.5170    1.2863    7.0212 S   0  0  0  0  0  0
+   30.0316    2.5910    6.4622 O   0  0  0  0  0  0
+   32.0163    1.2653    7.0290 O   0  0  0  0  0  0
+   29.8927   -0.1027    6.0056 C   0  0  0  0  0  0
+   29.3488    0.2990    4.6321 C   0  0  1  0  0  0
+   30.3320    1.0790    3.9482 O   0  0  0  0  0  0
+   29.0126   -0.9462    3.8098 C   0  0  0  0  0  0
+   28.0817    1.1438    4.7904 C   0  0  0  0  0  0
+   27.0736    0.6711    5.3140 O   0  0  0  0  0  0
+   28.2278    2.4144    4.4245 N   0  0  0  0  0  0
+   27.2761    3.3487    4.4336 C   0  0  0  0  0  0
+   25.9349    3.0740    4.6916 C   0  0  0  0  0  0
+   27.6352    4.6371    4.0559 C   0  0  0  0  0  0
+   26.6595    5.6232    3.9526 C   0  0  0  0  0  0
+   25.3237    5.3338    4.2148 C   0  0  0  0  0  0
+   24.4076    6.4289    4.1074 C   0  0  0  0  0  0
+   23.6905    7.3075    4.0122 N   0  0  0  0  0  0
+   24.9340    4.0423    4.5826 C   0  0  0  0  0  0
+   23.4724    3.6388    4.8568 C   0  0  0  0  0  0
+   23.2066    3.7869    6.1504 F   0  0  0  0  0  0
+   22.5695    4.3433    4.1799 F   0  0  0  0  0  0
+   23.2343    2.3699    4.5363 F   0  0  0  0  0  0
+   28.0538    2.0918    8.2580 H   0  0  0  0  0  0
+   27.2092    1.8093   10.5634 H   0  0  0  0  0  0
+   30.8381   -0.1919   11.6443 H   0  0  0  0  0  0
+   31.6844    0.0969    9.3405 H   0  0  0  0  0  0
+   29.1186   -0.6346    6.5587 H   0  0  0  0  0  0
+   30.6846   -0.8408    5.8782 H   0  0  0  0  0  0
+   29.9959    1.3337    3.0858 H   0  0  0  0  0  0
+   28.6269   -0.6457    2.8357 H   0  0  0  0  0  0
+   29.9122   -1.5466    3.6745 H   0  0  0  0  0  0
+   28.2588   -1.5349    4.3327 H   0  0  0  0  0  0
+   29.1254    2.7473    4.1029 H   0  0  0  0  0  0
+   25.6347    2.0801    4.9889 H   0  0  0  0  0  0
+   28.6683    4.8695    3.8438 H   0  0  0  0  0  0
+   26.9349    6.6274    3.6659 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  7  1  0  0  0
+  1 30  1  0  0  0
+  2  3  1  0  0  0
+  2 31  1  0  0  0
+  3  4  1  0  0  0
+  3  5  2  0  0  0
+  5  6  1  0  0  0
+  5 32  1  0  0  0
+  6  7  2  0  0  0
+  6 33  1  0  0  0
+  7  8  1  0  0  0
+  8  9  2  0  0  0
+  8 10  2  0  0  0
+  8 11  1  0  0  0
+ 11 12  1  0  0  0
+ 11 34  1  0  0  0
+ 11 35  1  0  0  0
+ 12 13  1  0  0  0
+ 12 14  1  0  0  0
+ 12 15  1  0  0  0
+ 13 36  1  0  0  0
+ 14 37  1  0  0  0
+ 14 38  1  0  0  0
+ 14 39  1  0  0  0
+ 15 16  2  0  0  0
+ 15 17  1  0  0  0
+ 17 18  1  0  0  0
+ 17 40  1  0  0  0
+ 18 19  2  0  0  0
+ 18 20  1  0  0  0
+ 19 25  1  0  0  0
+ 19 41  1  0  0  0
+ 20 21  2  0  0  0
+ 20 42  1  0  0  0
+ 21 22  1  0  0  0
+ 21 43  1  0  0  0
+ 22 23  1  0  0  0
+ 22 25  2  0  0  0
+ 23 24  3  0  0  0
+ 25 26  1  0  0  0
+ 26 27  1  0  0  0
+ 26 28  1  0  0  0
+ 26 29  1  0  0  0
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+16
+
+> <s_m_entry_name>
+Structure9
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF THE ANDROGEN RECEPTOR LIGAND-BINDING DOMAIN W741L MUTANT COMPLEX WITH R-BICALUTAMIDE
+
+> <s_pdb_PDB_ID>
+1Z95
+
+> <r_pdb_PDB_CRYST1_a>
+56.49
+
+> <r_pdb_PDB_CRYST1_b>
+66.47
+
+> <r_pdb_PDB_CRYST1_c>
+72.16
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+4
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSCRIPTION REGULATION, RECEPTOR
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+31-MAR-05
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.223
+
+> <r_pdb_PDB_Rfree>
+0.256
+
+> <r_pdb_PDB_RESOLUTION>
+1.8
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+95
+
+> <r_pdb_PDB_EXPDTA_PH>
+7.5
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+/home/unibas/Dropbox/Studium/PhD/Documents/teaching/MMiDD/github/MolecularDocking/tmp
+
+> <s_m_Source_File>
+1Z95.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_ppw_entry_id_backup>
+9
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2021-1
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <s_ppw_het_states>
+eJxNkbFygzAQRH9FQ40T3Qow4C5V2kxKDwXjuAoBF6TIePzvudPcJqJgdw/xJJZ7JdUYznpJHeJUhzNck2vj2rp2rkfX3nVwlUhDohApZAqhQqoQK+QKwUIySMbfWUkGySAZJINkkAySkcnm7OuVhbxfHXSleBfJrWrzb1tfq9r5tMuvwavpfao6+NRGsfDiS7IBg5lUhqYMLYOZjge2wCNnw92z4f4WrEJhqSDNptYpWC54HDNIZeCX29TKTiwbLMIMjmXoyzBY0HSIT7rt/aG/wEz1vs/7Ndyu67zsP2N+HMPnZV6ev7blFF4PL9v6ES7b97qPIZ7Cm96raXr8AtPzl3o=
+
+$$$$

@@ -1,0 +1,35 @@
+# conda env create -f environment.yml
+# mamba env create -f environment.yml
+# micromamba env create -f environment.yml
+
+name: docking-2024
+
+channels:
+  - defaults
+  - schrodinger
+  - conda-forge
+  # - bio-conda
+  # - anaconda
+
+
+dependencies:
+  - smina
+  - python
+  - openbabel
+  - rdkit
+  - notebook
+  - ipykernel
+  - ipython
+  - nb_conda_kernels
+  - plotly
+  - tqdm
+  - seaborn
+  - scikit-learn
+  - pymol-bundle
+  - pip
+  - pip:
+    - molplotly
+    #- PyQt5 # only mac
+
+
+#conda install -c conda-forge -c schrodinger pymol-bundle

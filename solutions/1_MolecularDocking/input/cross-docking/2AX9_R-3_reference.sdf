@@ -1,0 +1,168 @@
+2AX9_R-3 - preprocessed
+                    3D
+ Schrodinger Suite 2021-1.
+ 31 31  0  0  1  0            999 V2000
+   30.1995    1.3088    6.7052 Br  0  0  0  0  0  0
+   29.7224   -0.2152    5.5970 C   0  0  0  0  0  0
+   29.2315    0.2588    4.2267 C   0  0  1  0  0  0
+   30.2531    1.0575    3.6225 O   0  0  0  0  0  0
+   28.9117   -0.9463    3.3405 C   0  0  0  0  0  0
+   27.9685    1.1084    4.3887 C   0  0  0  0  0  0
+   26.9135    0.5981    4.7669 O   0  0  0  0  0  0
+   28.1398    2.4040    4.1333 N   0  0  0  0  0  0
+   27.1900    3.3366    4.1977 C   0  0  0  0  0  0
+   25.8630    3.0466    4.5047 C   0  0  0  0  0  0
+   27.5408    4.6530    3.9164 C   0  0  0  0  0  0
+   26.5702    5.6474    3.9639 C   0  0  0  0  0  0
+   25.2484    5.3525    4.2878 C   0  0  0  0  0  0
+   24.4126    6.3903    4.3529 N   0  3  0  0  0  0
+   23.0765    6.2853    4.8227 O   0  0  0  0  0  0
+   24.8964    7.6930    4.0561 O   0  5  0  0  0  0
+   24.8734    4.0308    4.5464 C   0  0  0  0  0  0
+   23.4140    3.6004    4.7830 C   0  0  0  0  0  0
+   23.0278    3.9546    6.0050 F   0  0  0  0  0  0
+   22.5727    4.1302    3.8985 F   0  0  0  0  0  0
+   23.2519    2.2845    4.6782 F   0  0  0  0  0  0
+   28.9347   -0.7877    6.0867 H   0  0  0  0  0  0
+   30.5937   -0.8574    5.4683 H   0  0  0  0  0  0
+   29.9557    1.3606    2.7615 H   0  0  0  0  0  0
+   28.5631   -0.6001    2.3674 H   0  0  0  0  0  0
+   29.8094   -1.5507    3.2103 H   0  0  0  0  0  0
+   28.1343   -1.5482    3.8112 H   0  0  0  0  0  0
+   29.0501    2.7498    3.8652 H   0  0  0  0  0  0
+   25.5685    2.0303    4.7211 H   0  0  0  0  0  0
+   28.5618    4.8974    3.6629 H   0  0  0  0  0  0
+   26.8354    6.6717    3.7473 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  2 22  1  0  0  0
+  2 23  1  0  0  0
+  3  4  1  0  0  0
+  3  5  1  0  0  0
+  3  6  1  0  0  0
+  4 24  1  0  0  0
+  5 25  1  0  0  0
+  5 26  1  0  0  0
+  5 27  1  0  0  0
+  6  7  2  0  0  0
+  6  8  1  0  0  0
+  8  9  1  0  0  0
+  8 28  1  0  0  0
+  9 10  2  0  0  0
+  9 11  1  0  0  0
+ 10 17  1  0  0  0
+ 10 29  1  0  0  0
+ 11 12  2  0  0  0
+ 11 30  1  0  0  0
+ 12 13  1  0  0  0
+ 12 31  1  0  0  0
+ 13 14  1  0  0  0
+ 13 17  2  0  0  0
+ 14 15  2  0  0  0
+ 14 16  1  0  0  0
+ 17 18  1  0  0  0
+ 18 19  1  0  0  0
+ 18 20  1  0  0  0
+ 18 21  1  0  0  0
+M  CHG  2  14   1  16  -1
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+1
+
+> <s_m_entry_name>
+2AX9_R-3_reference.1
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF THE ANDROGEN RECEPTOR LIGAND BINDING DOMAIN IN COMPLEX WITH R-3
+
+> <s_pdb_PDB_ID>
+2AX9
+
+> <r_pdb_PDB_CRYST1_a>
+55.379
+
+> <r_pdb_PDB_CRYST1_b>
+66.012
+
+> <r_pdb_PDB_CRYST1_c>
+69.055
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+4
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSCRIPTION
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+03-SEP-05
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.224
+
+> <r_pdb_PDB_Rfree>
+0.249
+
+> <r_pdb_PDB_RESOLUTION>
+1.65
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+95
+
+> <r_pdb_PDB_EXPDTA_PH>
+7.5
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+/home/unibas/Desktop/remove_asap/MolecularDocking/input/cross-docking
+
+> <s_m_Source_File>
+2AX9_R-3_reference.sdf
+
+> <i_m_Source_File_Index>
+1
+
+> <s_ppw_entry_id_backup>
+13
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2021-1
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <s_ppw_het_states>
+eJxNkL0OgkAQhF9lQw16ewLy01nZGktDQZRKBIuzMMR3d/eyE6BgZofLd7MsCScN3eThlFyX0s2bHkxz08K0ND2aVqa1KTsYEBlIBpMBZVAZWAaXAWaQPcg+ktVpa6GzFT+YFc1XW6y2NCsq93izlaWitVlVZyfUs+UaakXGhrqcx5aMAtHk2wHXxbTYDugUsagSTb0ZdPl1iHVkytxO8uUn/0NNcg19GOg9TP0Yvk387Oh578f9ax5bOmeneXrQff5MoSHX0kXeSdf9/nrXcS4=
+
+$$$$

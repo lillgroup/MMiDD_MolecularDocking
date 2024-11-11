@@ -1,0 +1,210 @@
+1T65_DHT - preprocessed
+                    3D
+ Schrodinger Suite 2021-1.
+ 51 54  0  0  1  0            999 V2000
+   26.9686    5.2184    4.6003 C   0  0  0  0  0  0
+   26.1540    6.4544    5.0267 C   0  0  0  0  0  0
+   24.7204    6.2687    4.4414 C   0  0  0  0  0  0
+   24.2221    7.1950    3.7985 O   0  0  0  0  0  0
+   24.0317    4.9568    4.6858 C   0  0  0  0  0  0
+   24.9049    3.7480    4.2065 C   0  0  2  0  0  0
+   24.2210    2.3592    4.4600 C   0  0  0  0  0  0
+   25.1298    1.2231    3.9270 C   0  0  0  0  0  0
+   26.5450    1.2205    4.5980 C   0  0  2  0  0  0
+   27.2129    2.6270    4.3757 C   0  0  1  0  0  0
+   26.3369    3.8269    4.9221 C   0  0  1  0  0  0
+   28.6425    2.5916    5.0225 C   0  0  0  0  0  0
+   29.5733    1.4643    4.5752 C   0  0  0  0  0  0
+   28.9062    0.0634    4.6554 C   0  0  1  0  0  0
+   27.4739    0.1277    4.0065 C   0  0  1  0  0  0
+   27.0167   -1.3394    4.1078 C   0  0  0  0  0  0
+   28.2976   -2.1034    3.6644 C   0  0  0  0  0  0
+   29.4516   -1.0680    3.7957 C   0  0  2  0  0  0
+   30.6119   -1.7181    4.3591 O   0  0  0  0  0  0
+   28.8431   -0.3733    6.1748 C   0  0  0  0  0  0
+   26.1798    3.6814    6.4951 C   0  0  0  0  0  0
+   27.9627    5.2728    5.0440 H   0  0  0  0  0  0
+   27.1803    5.2785    3.5328 H   0  0  0  0  0  0
+   26.6059    7.3505    4.6014 H   0  0  0  0  0  0
+   26.0990    6.4945    6.1146 H   0  0  0  0  0  0
+   23.0766    4.9452    4.1606 H   0  0  0  0  0  0
+   23.8192    4.8514    5.7497 H   0  0  0  0  0  0
+   25.0611    3.8530    3.1329 H   0  0  0  0  0  0
+   23.2608    2.3279    3.9451 H   0  0  0  0  0  0
+   24.0599    2.2237    5.5295 H   0  0  0  0  0  0
+   25.2409    1.3244    2.8474 H   0  0  0  0  0  0
+   24.6458    0.2615    4.0983 H   0  0  0  0  0  0
+   26.4301    1.0474    5.6680 H   0  0  0  0  0  0
+   27.3377    2.7692    3.3022 H   0  0  0  0  0  0
+   28.5446    2.5665    6.1079 H   0  0  0  0  0  0
+   29.1347    3.5500    4.8574 H   0  0  0  0  0  0
+   30.4735    1.4725    5.1898 H   0  0  0  0  0  0
+   29.9025    1.6506    3.5529 H   0  0  0  0  0  0
+   27.6072    0.3534    2.9485 H   0  0  0  0  0  0
+   26.2235   -1.5183    3.3819 H   0  0  0  0  0  0
+   26.8011   -1.5762    5.1497 H   0  0  0  0  0  0
+   28.1971   -2.4023    2.6210 H   0  0  0  0  0  0
+   28.4776   -2.9339    4.3471 H   0  0  0  0  0  0
+   29.7010   -0.6805    2.8079 H   0  0  0  0  0  0
+   30.9042   -2.4181    3.7707 H   0  0  0  0  0  0
+   28.3772   -1.3557    6.2519 H   0  0  0  0  0  0
+   29.8528   -0.4175    6.5829 H   0  0  0  0  0  0
+   28.2556    0.3520    6.7377 H   0  0  0  0  0  0
+   25.7392    2.7121    6.7287 H   0  0  0  0  0  0
+   27.1593    3.7579    6.9672 H   0  0  0  0  0  0
+   25.5329    4.4740    6.8711 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 11  1  0  0  0
+  1 22  1  0  0  0
+  1 23  1  0  0  0
+  2  3  1  0  0  0
+  2 24  1  0  0  0
+  2 25  1  0  0  0
+  3  4  2  0  0  0
+  3  5  1  0  0  0
+  5  6  1  0  0  0
+  5 26  1  0  0  0
+  5 27  1  0  0  0
+  6  7  1  0  0  0
+  6 11  1  0  0  0
+  6 28  1  0  0  0
+  7  8  1  0  0  0
+  7 29  1  0  0  0
+  7 30  1  0  0  0
+  8  9  1  0  0  0
+  8 31  1  0  0  0
+  8 32  1  0  0  0
+  9 10  1  0  0  0
+  9 15  1  0  0  0
+  9 33  1  0  0  0
+ 10 11  1  0  0  0
+ 10 12  1  0  0  0
+ 10 34  1  0  0  0
+ 11 21  1  0  0  0
+ 12 13  1  0  0  0
+ 12 35  1  0  0  0
+ 12 36  1  0  0  0
+ 13 14  1  0  0  0
+ 13 37  1  0  0  0
+ 13 38  1  0  0  0
+ 14 15  1  0  0  0
+ 14 18  1  0  0  0
+ 14 20  1  0  0  0
+ 15 16  1  0  0  0
+ 15 39  1  0  0  0
+ 16 17  1  0  0  0
+ 16 40  1  0  0  0
+ 16 41  1  0  0  0
+ 17 18  1  0  0  0
+ 17 42  1  0  0  0
+ 17 43  1  0  0  0
+ 18 19  1  0  0  0
+ 18 44  1  0  0  0
+ 19 45  1  0  0  0
+ 20 46  1  0  0  0
+ 20 47  1  0  0  0
+ 20 48  1  0  0  0
+ 21 49  1  0  0  0
+ 21 50  1  0  0  0
+ 21 51  1  0  0  0
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+15
+
+> <s_m_entry_name>
+Structure8
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF THE ANDROGEN RECEPTOR LIGAND BINDING DOMAIN WITH DHT AND A PEPTIDE DERIVED FORM ITS PHYSIOLOGICAL COACTIVATOR GRIP1 NR BOX 2 BOUND IN A NON-HELICAL CONFORMATION
+
+> <s_pdb_PDB_ID>
+1T65
+
+> <r_pdb_PDB_CRYST1_a>
+55.6
+
+> <r_pdb_PDB_CRYST1_b>
+67.58
+
+> <r_pdb_PDB_CRYST1_c>
+69.32
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+4
+
+> <s_pdb_PDB_CLASSIFICATION>
+HORMONE/GROWTH FACTOR
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+05-MAY-04
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.23
+
+> <r_pdb_PDB_Rfree>
+0.27
+
+> <r_pdb_PDB_RESOLUTION>
+1.66
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_EXPDTA_PH>
+7.5
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A, B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+/home/unibas/Dropbox/Studium/PhD/Documents/teaching/MMiDD/github/MolecularDocking/tmp
+
+> <s_m_Source_File>
+1T65.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_ppw_entry_id_backup>
+8
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2021-1
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <s_ppw_het_states>
+eJxNkD0PgkAMhv9Kw4x6Pfl2c3I1joaBIJMIDjgYwn+31/RFGO592rt7rmGOOKroLh/H5OqY7t7yaJlYppaZZW5ZWJaW7AAwMpQMJ0PKsDK0DC9DzDB7mL2aA4Wpxc56TpKNpXc0lJTXvGFqXcnMUDL/46qQXmEoWRqGdBuGT5u8LdaxwojrTuhiMoUERbK1haLYFB5v6hFMroDZFdY7AXRmqXZuL9fnRX5agOg2NVNH725o+ulb6bajZ9v0h9fYn+iyO4/Dg9rxM0wVuRNdZY3qevkBZ/p4gw==
+
+$$$$

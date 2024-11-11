@@ -1,0 +1,191 @@
+2AX7_S-1 - preprocessed
+                    3D
+ Schrodinger Suite 2021-1.
+ 42 43  0  0  1  0            999 V2000
+   29.7533   -0.4676    8.8243 C   0  0  0  0  0  0
+   29.5203   -0.7020   10.1779 C   0  0  0  0  0  0
+   28.8721    0.2568   10.9518 C   0  0  0  0  0  0
+   28.6518    0.0332   12.2643 F   0  0  0  0  0  0
+   28.4549    1.4489   10.3680 C   0  0  0  0  0  0
+   28.6900    1.6804    9.0153 C   0  0  0  0  0  0
+   29.3402    0.7266    8.2364 C   0  0  0  0  0  0
+   29.5697    1.0103    6.9245 O   0  0  0  0  0  0
+   29.5626   -0.1252    6.0434 C   0  0  0  0  0  0
+   29.3562    0.3776    4.6236 C   0  0  1  0  0  0
+   30.4338    1.2523    4.2802 O   0  0  0  0  0  0
+   29.3184   -0.8079    3.6561 C   0  0  0  0  0  0
+   28.0336    1.1464    4.5634 C   0  0  0  0  0  0
+   26.9619    0.5614    4.7157 O   0  0  0  0  0  0
+   28.1643    2.4516    4.3297 N   0  0  0  0  0  0
+   27.1732    3.3393    4.2483 C   0  0  0  0  0  0
+   25.8396    3.0229    4.4967 C   0  0  0  0  0  0
+   27.5016    4.6657    3.9886 C   0  0  0  0  0  0
+   26.5048    5.6369    3.9947 C   0  0  0  0  0  0
+   25.1763    5.3137    4.2642 C   0  0  0  0  0  0
+   24.3171    6.3338    4.2924 N   0  3  0  0  0  0
+   22.9607    6.1972    4.6897 O   0  0  0  0  0  0
+   24.7815    7.6487    4.0183 O   0  5  0  0  0  0
+   24.8240    3.9820    4.5100 C   0  0  0  0  0  0
+   23.3770    3.5284    4.7818 C   0  0  0  0  0  0
+   23.0076    3.8746    6.0129 F   0  0  0  0  0  0
+   22.5031    4.0390    3.9186 F   0  0  0  0  0  0
+   23.2375    2.2098    4.6847 F   0  0  0  0  0  0
+   30.2561   -1.2129    8.2259 H   0  0  0  0  0  0
+   29.8427   -1.6289   10.6288 H   0  0  0  0  0  0
+   27.9491    2.1941   10.9640 H   0  0  0  0  0  0
+   28.3674    2.6059    8.5618 H   0  0  0  0  0  0
+   28.7433   -0.7906    6.3156 H   0  0  0  0  0  0
+   30.5200   -0.6421    6.1098 H   0  0  0  0  0  0
+   30.3117    1.5749    3.3843 H   0  0  0  0  0  0
+   29.1703   -0.4433    2.6396 H   0  0  0  0  0  0
+   30.2603   -1.3535    3.7122 H   0  0  0  0  0  0
+   28.4976   -1.4722    3.9264 H   0  0  0  0  0  0
+   29.0821    2.8511    4.1951 H   0  0  0  0  0  0
+   25.5544    1.9993    4.6901 H   0  0  0  0  0  0
+   28.5263    4.9381    3.7835 H   0  0  0  0  0  0
+   26.7536    6.6673    3.7875 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  7  1  0  0  0
+  1 29  1  0  0  0
+  2  3  1  0  0  0
+  2 30  1  0  0  0
+  3  4  1  0  0  0
+  3  5  2  0  0  0
+  5  6  1  0  0  0
+  5 31  1  0  0  0
+  6  7  2  0  0  0
+  6 32  1  0  0  0
+  7  8  1  0  0  0
+  8  9  1  0  0  0
+  9 10  1  0  0  0
+  9 33  1  0  0  0
+  9 34  1  0  0  0
+ 10 11  1  0  0  0
+ 10 12  1  0  0  0
+ 10 13  1  0  0  0
+ 11 35  1  0  0  0
+ 12 36  1  0  0  0
+ 12 37  1  0  0  0
+ 12 38  1  0  0  0
+ 13 14  2  0  0  0
+ 13 15  1  0  0  0
+ 15 16  1  0  0  0
+ 15 39  1  0  0  0
+ 16 17  2  0  0  0
+ 16 18  1  0  0  0
+ 17 24  1  0  0  0
+ 17 40  1  0  0  0
+ 18 19  2  0  0  0
+ 18 41  1  0  0  0
+ 19 20  1  0  0  0
+ 19 42  1  0  0  0
+ 20 21  1  0  0  0
+ 20 24  2  0  0  0
+ 21 22  2  0  0  0
+ 21 23  1  0  0  0
+ 24 25  1  0  0  0
+ 25 26  1  0  0  0
+ 25 27  1  0  0  0
+ 25 28  1  0  0  0
+M  CHG  2  21   1  23  -1
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+1
+
+> <s_m_entry_name>
+2AX7_S-1_reference.1
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF THE ANDROGEN RECEPTOR LIGAND BINDING DOMAIN T877A MUTANT IN COMPLEX WITH S-1
+
+> <s_pdb_PDB_ID>
+2AX7
+
+> <r_pdb_PDB_CRYST1_a>
+54.818
+
+> <r_pdb_PDB_CRYST1_b>
+66.371
+
+> <r_pdb_PDB_CRYST1_c>
+69.076
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+4
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSCRIPTION
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+03-SEP-05
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.206
+
+> <r_pdb_PDB_Rfree>
+0.247
+
+> <r_pdb_PDB_RESOLUTION>
+1.9
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+95
+
+> <r_pdb_PDB_EXPDTA_PH>
+7.5
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+/home/unibas/Desktop/remove_asap/MolecularDocking/input/cross-docking
+
+> <s_m_Source_File>
+2AX7_S-1_reference.sdf
+
+> <i_m_Source_File_Index>
+1
+
+> <s_ppw_entry_id_backup>
+12
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2021-1
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <s_ppw_het_states>
+eJxNkDGTgkAMhf9KhhrPTQQU7KxsnSsdCkatjgMLLBzH/26SybtbCt572fAl7KvgoqOzPlxS6ks6S+gmtAqtQ5vQbegutA3lBAMiA8lgMqAMKgPL4DLADLKALH+7giwgC8gCsoAsIIuTzdlPK0J8TEnawHEFm7Cq1b+to1e1iWrjn0ncyC6qqm1Y0xTeDedB8oChbirsZaHGiRmMdoPhHjDeq9jbqy3azGAdM8J5wFCriuQBu3kL1jEjTR62efB1NK3Sl8Jfb712M8X3Miw3ut+mYVyenR8n+rkM4/p3Hvd0XB3m6UqX+TEtHaU9nfRd9P37A9D1kw8=
+
+$$$$
