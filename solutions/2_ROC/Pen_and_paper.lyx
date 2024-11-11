@@ -1,16 +1,16 @@
-#LyX 2.3 created this file. For more info see http://www.lyx.org/
-\lyxformat 544
+#LyX 2.4 created this file. For more info see https://www.lyx.org/
+\lyxformat 620
 \begin_document
 \begin_header
 \save_transient_properties true
 \origin unavailable
 \textclass article
 \use_default_options true
-\maintain_unincluded_children false
+\maintain_unincluded_children no
 \language english
 \language_package default
-\inputencoding auto
-\fontencoding global
+\inputencoding auto-legacy
+\fontencoding auto
 \font_roman "default" "default"
 \font_sans "default" "default"
 \font_typewriter "default" "default"
@@ -18,7 +18,9 @@
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
-\font_osf false
+\font_roman_osf false
+\font_sans_osf false
+\font_typewriter_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
 \use_microtype false
@@ -50,7 +52,9 @@
 \suppress_date false
 \justification true
 \use_refstyle 1
+\use_formatted_ref 0
 \use_minted 0
+\use_lineno 0
 \index Index
 \shortcut idx
 \color #008000
@@ -66,11 +70,16 @@
 \papercolumns 1
 \papersides 1
 \paperpagestyle default
+\tablestyle default
 \tracking_changes false
 \output_changes false
+\change_bars false
+\postpone_fragile_content false
 \html_math_output 0
 \html_css_as_file 0
 \html_be_strict false
+\docbook_table_output 0
+\docbook_mathml_prefix 1
 \end_header
 
 \begin_body
@@ -80,7 +89,8 @@ Problems for submission 4 (10 points)
 \end_layout
 
 \begin_layout Subsection*
-Due: 20.11.2023 at 20:00
+Due:
+ 27.11.2024 at 20:00
 \end_layout
 
 \begin_layout Itemize
@@ -89,7 +99,8 @@ Please provide your solutions in a text file.
 \end_layout
 
 \begin_layout Itemize
-Name of file: Surname1_Surname2_Surname3_Problems4.txt
+Name of file:
+ Surname1_Surname2_Surname3_Problems4.txt
 \end_layout
 
 \begin_layout Itemize
@@ -101,54 +112,54 @@ Please show all your work
 \end_layout
 
 \begin_layout Standard
-Please submit your text file to the course website on ADAM under Student
- Submissions of Problem Solutions -> Problems 4
+Please submit your text file to the course website on ADAM under Student Submissions of Problem Solutions -> Problems 4
 \end_layout
 
 \begin_layout Section*
-Introduction: ROC curves
+Introduction:
+ ROC curves
 \end_layout
 
 \begin_layout Standard
-Receiver Operating Characteristic (ROC) curves are widely employed in virtual
- screening to assess the performance of predictive models in distinguishing
- between active and inactive compounds.
- These curves graphically depict the trade-off between sensitivity and specifici
-ty across various classification thresholds.
- In the context of virtual screening, ROC curves provide a valuable tool
- for evaluating the ability of computational methods to prioritize potential
- drug candidates effectively.
- The area under the ROC curve (AUC) serves as a quantitative measure, with
- higher area under the curve (AUC) values indicative of superior model performan
-ce in discriminating true positives from false positives.
+Receiver Operating Characteristic (ROC) curves are widely employed in virtual screening to assess the performance of predictive models in distinguishing between active and inactive compounds.
+ These curves graphically depict the trade-off between sensitivity and specificity across various classification thresholds.
+ In the context of virtual screening,
+ ROC curves provide a valuable tool for evaluating the ability of computational methods to prioritize potential drug candidates effectively.
+ The area under the ROC curve (AUC) serves as a quantitative measure,
+ with higher area under the curve (AUC) values indicative of superior model performance in discriminating true positives from false positives.
 \end_layout
 
 \begin_layout Standard
-The data used for this exercise is artificially generated and functions
- solely as an illustrative toy example.
- In the forthcoming "Virtual Screening" exercise, you will generate authentic
- data and conduct a thorough analysis.
- This dataset comprises 30 compounds, each possessing the following properties:
+The data used for this exercise is artificially generated and functions solely as an illustrative toy example.
+ In the forthcoming "Virtual Screening" exercise,
+ you will generate authentic data and conduct a thorough analysis.
+ This dataset comprises 30 compounds,
+ each possessing the following properties:
 \end_layout
 
 \begin_layout Itemize
-Compound: Unique compound number
+Compound:
+ Unique compound number
 \end_layout
 
 \begin_layout Itemize
-Class: The compounds are classified in 0 or 1 which could correspond to
- non-binding (0, False) and binding (1, True) ligands.
+Class:
+ The compounds are classified in 0 or 1 which could correspond to non-binding (0,
+ False) and binding (1,
+ True) ligands.
  The class represents the ground truth.
 \end_layout
 
 \begin_layout Itemize
-Value: These constructed values represent calculated numbers.
+Value:
+ These constructed values represent calculated numbers.
  For example a docking score.
 \end_layout
 
 \begin_layout Standard
-In virtual screening, our goal is therefore to deduce the class (binding
- or non-binding) from a predicted value, specifically the docking score.
+In virtual screening,
+ our goal is therefore to deduce the class (binding or non-binding) from a predicted value,
+ specifically the docking score.
 \end_layout
 
 \begin_layout Standard
@@ -1106,19 +1117,22 @@ value
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-Table 1: Artifically generated data.
+Table 1:
+ Artifically generated data.
  The table has been sorted according to class and value.
 \end_layout
 
 \begin_layout Enumerate
-[3 pts] Utilize the data provided in Table 1 to create a histogram illustrating
- the distribution of values within the two classes.
+[3 pts] Utilize the data provided in Table 1 to create a histogram illustrating the distribution of values within the two classes.
  Employ a bin length of 1 for optimal representation.
- Additionally, consider employing distinct colors for each class (0 and
- 1) within the same histogram, or alternatively, generate separate histograms
- for Class 0 on the left and Class 1 on the right for clearer visualization.
+ Additionally,
+ consider employing distinct colors for each class (0 and 1) within the same histogram,
+ or alternatively,
+ generate separate histograms for Class 0 on the left and Class 1 on the right for clearer visualization.
  In the text file please provide a table with the following information:
- class, bin number, count.
+ class,
+ bin number,
+ count.
  Please sort the table according to class and bin number.
 \begin_inset Newline newline
 \end_inset
@@ -1126,15 +1140,16 @@ Table 1: Artifically generated data.
 
 \begin_inset Float figure
 placement H
+alignment document
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename figures/hist.png
-	lyxscale 50
-	scale 50
+	lyxscale 25
+	scale 5
 
 \end_inset
 
@@ -1146,7 +1161,10 @@ status collapsed
 
 \begin_layout Plain Layout
 Histogram of class distribution.
- Left: Class 0, Right: Class 1
+ Left:
+ Class 0,
+ Right:
+ Class 1
 \end_layout
 
 \end_inset
@@ -1164,23 +1182,24 @@ Histogram of class distribution.
 \begin_inset Newline newline
 \end_inset
 
-A confusion matrix summarizes the performance of a binary classifier by
- showing true and false positives, as well as true and false negatives:
+A confusion matrix summarizes the performance of a binary classifier by showing true and false positives,
+ as well as true and false negatives:
 \begin_inset Newline newline
 \end_inset
 
 
 \begin_inset Float figure
 placement H
+alignment document
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename figures/confusion_matrix.png
-	lyxscale 50
-	scale 25
+	lyxscale 25
+	scale 5
 
 \end_inset
 
@@ -1189,7 +1208,8 @@ status collapsed
 
 \begin_layout Plain Layout
 Confusion matrix.
- Note: In Literature the Prediction and ground truth is sometimes flipped.
+ Note:
+ In Literature the Prediction and ground truth is sometimes flipped.
 \end_layout
 
 \end_inset
@@ -1207,25 +1227,21 @@ Confusion matrix.
 \end_layout
 
 \begin_layout Enumerate
-[3 pts] Employ the provided templates in figure 3 to construct confusion
- matrices for the data across various thresholds.
- To populate a confusion matrix, count the occurrences of true positives
- (TP), false positives (FP), false negatives (FN), and true negatives (TN)
- in figure 1 at the designated thresholds.
- The threshold depticts the value (for example docking score) which separates
- the two predicted classes.
- In the solution text file please provide the 4 tables with the corresponding
- threshold as table title.
+[3 pts] Employ the provided templates in figure 3 to construct confusion matrices for the data across various thresholds.
+ To populate a confusion matrix,
+ count the occurrences of true positives (TP),
+ false positives (FP),
+ false negatives (FN),
+ and true negatives (TN) in figure 1 at the designated thresholds.
+ The threshold depicts the value (for example docking score) which separates the two predicted classes.
+ In the solution text file please provide the 4 tables with the corresponding threshold as table title.
  Use spaces to separate the cells.
-\begin_inset Newline newline
-\end_inset
-
-
 \begin_inset Float figure
 placement H
+alignment document
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Tabular
@@ -1259,9 +1275,9 @@ Threshold > 5
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename figures/emtpy_confusion_matrix.png
+	filename figures/empty_confusion_matrix.png
 	lyxscale 35
-	scale 15
+	scale 5
 
 \end_inset
 
@@ -1275,9 +1291,9 @@ Threshold > 5
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename figures/emtpy_confusion_matrix.png
-	lyxscale 50
-	scale 15
+	filename figures/empty_confusion_matrix.png
+	lyxscale 35
+	scale 5
 
 \end_inset
 
@@ -1313,9 +1329,9 @@ Threshold > 6
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename figures/emtpy_confusion_matrix.png
-	lyxscale 50
-	scale 15
+	filename figures/empty_confusion_matrix.png
+	lyxscale 35
+	scale 5
 
 \end_inset
 
@@ -1329,9 +1345,9 @@ Threshold > 6
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename figures/emtpy_confusion_matrix.png
-	lyxscale 50
-	scale 15
+	filename figures/empty_confusion_matrix.png
+	lyxscale 35
+	scale 5
 
 \end_inset
 
@@ -1370,22 +1386,22 @@ Calculated confusion matrices for four different thresholds.
 \end_layout
 
 \begin_layout Enumerate
-[3 pts] ROC curves are constructed by plotting the true positive rate (TPR)
- against the false positive rate (FPR).
- Calculate the TPR and FPR for the three thresholds and plot the points
- in the plot below.
+[3 pts] ROC curves are constructed by plotting the true positive rate (TPR) against the false positive rate (FPR).
+ Calculate the TPR and FPR for the three thresholds and plot the points in the plot below.
  A ROC curve starts at (0,0) and ends at (1,1).
  Try to interpolate the curve using your 4 calculated points.
- In the text file please provide the four points as (FPR, TPR).
+ In the text file please provide the four points as (FPR,
+ TPR).
 \begin_inset Newline newline
 \end_inset
 
 
 \begin_inset Float figure
 placement H
+alignment document
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Formula $TPR=\frac{TP}{TP+FN}$
@@ -1402,7 +1418,7 @@ status collapsed
 \begin_inset Graphics
 	filename figures/ROC.png
 	lyxscale 25
-	scale 20
+	scale 5
 	BoundingBox 0bp 0bp 3840bp 2880bp
 	clip
 
@@ -1415,8 +1431,7 @@ status collapsed
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Formulas to calculate true positive and false positive rates and a template
- to draw the ROC curve.
+Formulas to calculate true positive and false positive rates and a template to draw the ROC curve.
 \end_layout
 
 \end_inset
@@ -1434,8 +1449,7 @@ Formulas to calculate true positive and false positive rates and a template
 \end_layout
 
 \begin_layout Enumerate
-[1 pts] Based on your previous interpolation what is your estimation of
- the area under the curve (AUC).
+[1 pts] Based on your previous interpolation what is your estimation of the area under the curve (AUC).
 \end_layout
 
 \begin_deeper

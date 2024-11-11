@@ -16,16 +16,16 @@ This repository contains the material used in molecular docking part of the Mole
 The instructions are currently only for development and not the end users (students).
 
 >1. Save repository into your home directory or dedicated folder \
-`git clone git@github.com:ManuelSe/MMiDD_MolecularDocking.git` 
+`git clone https://github.com/lillgroup/MMiDD_MolecularDocking` 
 >2. `cd MMiDD_MolecularDocking/install`
 >3. Install miniconda if not already installed \
 `sh install_conda.sh`
 >4. Install the tutorial conda environment \
 `conda env create -f environment.yml` 
 >5. Activate environment \
-`conda activate tutorial`
+`conda activate docking-2024`
 >6. Connect the conda environment with the jupyter-notebook \
-`python3 -m ipykernel install --user --name=tutorial`
+`python -m ipykernel install --user --name=docking-2024`
 
 
 # Course
