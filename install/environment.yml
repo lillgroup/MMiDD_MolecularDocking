@@ -8,8 +8,6 @@ channels:
   - defaults
   - schrodinger
   - conda-forge
-  # - bio-conda
-  # - anaconda
 
 
 dependencies:
@@ -29,7 +27,3 @@ dependencies:
   - pip
   - pip:
     - molplotly
-    #- PyQt5 # only mac
-
-
-#conda install -c conda-forge -c schrodinger pymol-bundle
